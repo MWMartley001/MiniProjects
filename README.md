@@ -12,3 +12,4 @@ of regression model fit.
 8. Visualizing the Global Nuclear Power and Earthquake Risks.ipynb/pdf: Geospatial visualization project using the folium package. For 
 interactivity one must download the ipynb file and open in Jupyter Notebook or Google Colab. The pdf is provided as a snapshot.
 9. Regression_Models_AMES_Housing_Data.ipynb: Comparison of MLR model vs 2x2 experiment of Random Forest regressor models.
+10. AutoML on Google Cloud Platform Application: Utilizes AutoML and Flask to deploy a predictive application for a churn tool (app is currently not deployed). Link: https://github.com/MWMartley001/Application1
